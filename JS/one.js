@@ -1,0 +1,4 @@
+console.log("GM")
+console.log("GA")
+console.log("GN")
+console.log("Sweet Dreams")
